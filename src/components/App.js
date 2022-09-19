@@ -1,4 +1,5 @@
 import React from "react";
+ import App from "../components/App";
 
 function App() {
   return (
@@ -10,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+// export default App;
